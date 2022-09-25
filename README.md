@@ -18,6 +18,11 @@ I am training in IT administrator course and want to be able to :
 * manage servers
 * manage network infrastructure
 
+In 2021 i graduated as system administrator network and Cloud
+
+Some references
+------
+
 >“Live as if you were to die tomorrow. Learn as if you were to live forever.”
 >― Mahatma Gandhi 
 
@@ -29,9 +34,11 @@ I follow also a lot of `(tuto in the web)` to learn about servers, firewall in o
 
 -------------
 
-some references about Markdown [Markdown](https://daringfireball.net/projects/markdown/syntax)
+About Markdown
+------
+about Markdown [Markdown](https://daringfireball.net/projects/markdown/syntax)
 
-in french [translation](http://michelf.ca/projets/php-markdown/syntaxe/)
+[Markdown in french](http://michelf.ca/projets/php-markdown/syntaxe/)
 
 
  
